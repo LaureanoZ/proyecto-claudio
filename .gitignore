@@ -1,0 +1,13 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos temporales
+*.tmp
+*.log
+nul
+
+# PDFs y zips (opcional, descomenta si no querés subirlos)
+# *.pdf
+# *.zip
